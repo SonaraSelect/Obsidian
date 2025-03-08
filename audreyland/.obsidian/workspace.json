@@ -67,18 +67,28 @@
             "id": "dd3b3f5fbf3bb84e",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "753b4922ead87776",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/World of Jint.md",
+                "file": "Obisidian for Writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World of Jint"
+              "title": "Obisidian for Writing"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,8 +147,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -237,22 +247,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "31a99ecd0c843cb2",
+  "active": "753b4922ead87776",
   "lastOpenFiles": [
-    "1 - Rough Notes/Movies Books todo.md",
-    "1 - Rough Notes",
+    "hey.py",
+    "Approaching Obsidian.md",
+    "Obisidian for Writing.md",
     "6 - Full Notes/GUARDS Method.md",
+    "6 - Full Notes/Pasted image 20250307101937.png",
+    "6 - Full Notes/Pasted image 20250307101953.png",
+    "1 - Rough Notes/Movies Books todo.md",
     "4 - Indexes/World of Jint.md",
     "5 -Template/Full Note.md",
     "2 - Source Material/Videos/Build Fantasy Towns with the GUARDS method.md",
     "3 - Tags/Worldbuilding.md",
     "2 - Source Material/Books/Non Fiction/How to Take Smart Notes - Soenke Ahrens.md",
     "goodmorning.md",
-    "Approaching Obsidian.md",
-    "Obisidian for Writing.md",
     "3 - Tags/Notetaking.md",
-    "6 - Full Notes/Pasted image 20250307101937.png",
-    "6 - Full Notes/Pasted image 20250307101953.png",
     "2 - Source Material/Articles",
     "2 - Source Material/Videos",
     "2 - Source Material/Books/Fiction",
@@ -262,6 +272,7 @@
     "6 - Full Notes",
     "5 -Template",
     "4 - Indexes",
-    "3 - Tags"
+    "3 - Tags",
+    "2 - Source Material"
   ]
 }
