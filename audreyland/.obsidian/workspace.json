@@ -8,87 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22044f739ddaf2c1",
+            "id": "2d9a4a0e983e93e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approaching Obsidian.md",
+                "file": "Stories/World of Jint/Brainstorming and Wishlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Approaching Obsidian"
+              "title": "Brainstorming and Wishlist"
             }
           },
           {
-            "id": "3bf0c6f80015d479",
+            "id": "46ed1563cb881363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Notetaking.md",
+                "file": "Stories/Jazz Don't Stop/characters/Miles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notetaking"
-            }
-          },
-          {
-            "id": "97dbaaa169323b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Videos/Build Fantasy Towns with the GUARDS method.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Build Fantasy Towns with the GUARDS method"
-            }
-          },
-          {
-            "id": "2e137ba9bec344fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tags/Worldbuilding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Worldbuilding"
-            }
-          },
-          {
-            "id": "dd3b3f5fbf3bb84e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "753b4922ead87776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obisidian for Writing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obisidian for Writing"
+              "title": "Miles"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Indexes/World of Jint.md",
+                "file": "Stories/Jazz Don't Stop/Brainstorming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for World of Jint"
+              "title": "Backlinks for Brainstorming"
             }
           },
           {
@@ -190,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Indexes/World of Jint.md",
+                "file": "Stories/Jazz Don't Stop/Brainstorming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from World of Jint"
+              "title": "Outgoing links from Brainstorming"
             }
           },
           {
@@ -244,35 +192,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "smart-random-note:Open Random Note from Search": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-stille:Toggle Stille": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "753b4922ead87776",
+  "active": "46ed1563cb881363",
   "lastOpenFiles": [
-    "hey.py",
-    "Approaching Obsidian.md",
-    "Obisidian for Writing.md",
-    "6 - Full Notes/GUARDS Method.md",
-    "6 - Full Notes/Pasted image 20250307101937.png",
-    "6 - Full Notes/Pasted image 20250307101953.png",
-    "1 - Rough Notes/Movies Books todo.md",
-    "4 - Indexes/World of Jint.md",
-    "5 -Template/Full Note.md",
-    "2 - Source Material/Videos/Build Fantasy Towns with the GUARDS method.md",
-    "3 - Tags/Worldbuilding.md",
+    "Stories/World of Jint/Brainstorming and Wishlist.md",
+    "Stories/Jazz Don't Stop/characters/Miles.md",
+    "Stories/Jazz Don't Stop/characters/Livvy.md",
+    "Stories/Jazz Don't Stop/characters/Simon.md",
+    "Stories/Jazz Don't Stop/characters/Wyatt.md",
+    "Stories/Jazz Don't Stop/Plotting Brainstorm.md",
+    "Stories/Jazz Don't Stop/Brainstorming.md",
+    "Stories/Jazz Don't Stop/Plotting Kanban.md",
     "2 - Source Material/Books/Non Fiction/How to Take Smart Notes - Soenke Ahrens.md",
-    "goodmorning.md",
-    "3 - Tags/Notetaking.md",
-    "2 - Source Material/Articles",
-    "2 - Source Material/Videos",
-    "2 - Source Material/Books/Fiction",
-    "2 - Source Material/Books/Non Fiction",
-    "2 - Source Material/Books",
-    "6 - New Notes.md",
-    "6 - Full Notes",
-    "5 -Template",
-    "4 - Indexes",
-    "3 - Tags",
-    "2 - Source Material"
+    "First practice together.md",
+    "Obisidian for Writing.md",
+    "Stories/World of Jint/Locations/Rahnarhh.md",
+    "Stories/World of Jint/Groups/Gorne Empire.md",
+    "Stories/Jazz Don't Stop/locations/jazz bar.md",
+    "5 -Template/Location Entry.md",
+    "5 -Template/Jazz Character Entry.md",
+    "Stories/Jazz Don't Stop/locations",
+    "Stories/Jazz Don't Stop/characters",
+    "Stories",
+    "Stories/Jazz Don't Stop",
+    "Stories/World of Jint/Groups/Deities.md",
+    "Stories/World of Jint/Groups/Land of Golden Hands.md",
+    "Stories/World of Jint/Concepts and Systems/Blood Magic.md",
+    "Stories/World of Jint/Concepts and Systems/Magic (General).md",
+    "Stories/World of Jint/Characters/Gideon.md",
+    "Stories/World of Jint/Groups/Longarms.md",
+    "Stories/World of Jint/Groups/Kingdom of Jude.md",
+    "Stories/World of Jint/Groups/Haik Rebellion.md",
+    "Stories/World of Jint/Characters/Theon Mardera.md",
+    "Stories/World of Jint/Characters/Sho-Terra-Nu.md",
+    "5 - Template",
+    "Stories/World of Jint/Concepts and Systems",
+    "Stories/World of Jint/Stories",
+    "Stories/World of Jint/Indexes",
+    "Stories/World of Jint/Groups",
+    "Stories/World of Jint/Locations",
+    "6 - Full Notes/Pasted image 20250307101937.png",
+    "6 - Full Notes/Pasted image 20250307101953.png"
   ]
 }

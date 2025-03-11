@@ -1,0 +1,7 @@
+Status:
+Tags:
+## Brainstorming
+
+
+# {{Title}}
+
