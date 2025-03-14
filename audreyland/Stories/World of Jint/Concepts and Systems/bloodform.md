@@ -1,0 +1,1 @@
+Physical manifestations of [[Blood Magic]]; The name for Blood Magic tools.

@@ -1,0 +1,1 @@
+A group introduced in [[Dreams of Rahnarhh|Dreams of Rahnarhh]] that opposes [[Theon]] and the [[Royal Shamans]] scout mission at Rahnarhh. This group goes against the [[Land of Golden Hands]]' belief in collective self obliteration to achieve ascendance.

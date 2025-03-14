@@ -27,6 +27,8 @@ Like how [[Miles]] is really perfectionistic and gets mad at everyone. [[Wyatt]]
 - Livvy falls for Miles, then Simon falls for Livvy, then the Grace situation ensues
 - Miles' need for the group to conform exactly to his standards
 
+Really it seems Wyatt is the only type to stand up against Miles' outbursts, aside from Livvy once she's hit her limit and makes a really bad scene
+
 Similarities between characters:
 
 - Simon and Wyatt both ignore the world and stick without realms that make them feel comfortable
