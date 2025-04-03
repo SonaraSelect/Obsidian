@@ -19,14 +19,23 @@ What did [[New Gods]] did [[Nartha]] create? Are they related to the [[Gorne Emp
 
 - Snowing upside down, the snow is slowly growing and its particles are slowly ripped off and moved upwards. You do NOT want to leave crates or large surface area things on the snow, here there are tons of floating structures, all with pointed bottoms to move the snow off of them (almost looks as if they are standing on needles)
 
+- Maybe a dead city just isn't as interesting. What if I added a bunch of fun things to make getting to the heart of Rahnarth as difficult as possible. I would like to add various factions within the city per layer. Honestly I should mirror Made in Abyss a good bit, maybe staying in each layer for a while fucks you up and makes it harder to leave. At the very least I know that staying in Rahnarth for too long is guaranteed to damage you.
+- The city was once a utopia but it turned into what it is now because of the failed creation of [[Naratha]], one of the many [[New Gods]].
+
+- Is the city self aware? Like, is [[Naratha]]'s corpse trying to stop people from ever using this technology again?
+
 ## Layers of the city
 
 - Figure out what to do with the upside down snow
 ### Layer 1 - The Outskirts
 
-The outskirts, occasional buildings surrounded by dead grass and dying shrubbery. No trees present, the land is super flat and you can see pretty far ahead in multiple directions. 
+The outskirts, occasional buildings surrounded by dead grass and dying shrubbery. From a distance the land looks exceedingly flat and empty, but as you enter you start to hear the hum and you will likely see 'mirages' of different altars scattered around in the distance. People will not share mirages, and mirages of various beasts and silhouettes in the distance may also occur.
 
-At the border there are tons of different dilapidated gates and walls at the city.
+The mirage altars are all different tower-like structures, all dedicated to different gods. You can't ever reach these altars unless that god deems you have given it true devotion, and this attracts a fair amount of religious fanatics.
+
+People who have died in this layer will be absorbed by the ground, and sometimes (especially during [[Termina]]) the dead may rise again to attack incoming people.
+
+At the border there are tons of different dilapidated gates and walls leading into the city.
 ### Layer 2 - The Buildings
 
 The labyrinth of buildings begins. Here there are lots of variations in altitude, many buildings and staircases interwoven together going up and down. Here the structures are more focused on a handful of upper and lower levels, connecting the buildings from 1B to 3F style heights. **THERE ARE LOTS AND LOTS OF ALTARS TO THE GODS, SOME EVEN UNKNOWN TO THE CURRENT NATIONS**. Maybe there are also tons of effigies, some in torture objects, and also lots of petrified people, Pompei style?
@@ -45,7 +54,7 @@ After crossing the gats the hum stops immediately, giving way to an uncanny sile
 
 Perhaps there are some sort of guardians that form from rubble on the ground, or something like that. Who knows.
 
-At the center is the tower, and inside you can sacrifice someone (or multiple people) when the stars align to begin the [[birthpot of the gods]].
+At the center is the tower, and inside you can sacrifice someone (or multiple people) when the stars align in ([[Termina]]) to begin the [[birthpot of the gods]].
 ## Location
 
 Located between the many nations of the continent. 

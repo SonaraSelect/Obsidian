@@ -4,67 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "326f866751a93018",
+        "id": "bbb560173267c727",
         "type": "tabs",
         "children": [
           {
-            "id": "b50978a26e35d18b",
+            "id": "cd0b7690c2e4d7d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/World of Jint/Concepts and Systems/Magic (General).md",
+                "file": "jazz scene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic (General)"
+              "title": "jazz scene"
             }
           },
           {
-            "id": "439215b72713ef3d",
+            "id": "e3767cf3e70d8bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/World of Jint/Stories/Dreams of Rahnarhh.md",
+                "file": "James Baldwin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dreams of Rahnarhh"
-            }
-          },
-          {
-            "id": "7c1563f6797ec8ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/World of Jint/Stories/Dreams of Rahnarhh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dreams of Rahnarhh"
-            }
-          },
-          {
-            "id": "4692a7f8955535ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/World of Jint/Locations/Rahnarth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rahnarth"
+              "title": "James Baldwin"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/World of Jint/Stories/Dreams of Rahnarhh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dreams of Rahnarhh"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stories/Jazz Don't Stop/Brainstorming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Brainstorming"
+              "title": "Outgoing links"
             }
           },
           {
@@ -195,16 +164,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Indexes/World of Jint.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of World of Jint"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -225,44 +194,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7c1563f6797ec8ae",
+  "active": "cd0b7690c2e4d7d4",
   "lastOpenFiles": [
-    "Rahnarhh.md",
+    "2 - Source Material/Books/Fiction/Sonny's Blues - James Baldwin.md",
+    "James Baldwin.md",
+    "jazz scene.md",
+    "Stories/Jazz Don't Stop/characters/Simon.md",
+    "Stories/Jazz Don't Stop/characters/Miles.md",
+    "2 - Source Material/Books/Non Fiction/POETRY - Huey and Kaneko.md",
+    "Stories/World of Jint/Characters/Theon.md",
+    "2 - Source Material/Books/Non Fiction/Writing Fiction - Janet Burroway.md",
+    "2 - Source Material/Books/Fiction",
+    "2025-03-26.md",
+    "Stories/World of Jint/Characters/testnote.md",
+    "Obisidian for Writing.md",
     "Stories/World of Jint/Stories/Dreams of Rahnarhh.md",
-    "Stories/World of Jint/Locations/Rahnarth.md",
-    "Stories/World of Jint/Concepts and Systems/Magic (General).md",
-    "Stories/World of Jint/Concepts and Systems/bloodform.md",
-    "Stories/World of Jint/Groups/Royal Shamans.md",
+    "Stories/World of Jint/Stories/Brainstorm Dreams of Rahnarhh.md",
     "Stories/World of Jint/Groups/Deities.md",
     "Stories/World of Jint/Groups/New Gods.md",
-    "Stories/World of Jint/Groups/Gorne Empire.md",
-    "Stories/World of Jint/Groups/Haik Rebellion.md",
-    "Stories/World of Jint/Groups/Kingdom of Jude.md",
-    "Stories/World of Jint/Brainstorming and Wishlist.md",
-    "Stories/World of Jint/Groups/Land of Golden Hands.md",
-    "Stories/World of Jint/Groups/Longarms.md",
-    "Stories/World of Jint/Characters/Revnyris.md",
-    "Stories/World of Jint/Groups/Old Gods.md",
-    "Stories/World of Jint/Characters/Eneon.md",
-    "Stories/World of Jint/Concepts and Systems/Hunger Magic.md",
-    "Stories/World of Jint/Concepts and Systems/Magic Spells/Bite of Eneon.md",
-    "Stories/World of Jint/Concepts and Systems/Magic Spells",
-    "Stories/World of Jint/Characters/Sho-Terra-Nu.md",
+    "Stories/World of Jint/Characters/Reja.md",
+    "Stories/World of Jint/Locations/Rahnarth.md",
     "Stories/World of Jint/Groups/Nartha.md",
-    "Stories/World of Jint/Characters/Symeon.md",
-    "Stories/World of Jint/Concepts and Systems/Blood Magic.md",
-    "Stories/World of Jint/Groups/TBD rebel group.md",
-    "Stories/World of Jint/Stories/Brainstorm Dreams of Rahnarhh.md",
-    "5 -Template/Group Entry.md",
+    "Stories/World of Jint/Groups/Old Gods.md",
+    "Stories/World of Jint/Characters/Sho-Terra-Nu.md",
+    "Stories/World of Jint/Characters/Revnyris.md",
+    "2 - Source Material/Books/Non Fiction/Chapters/Metaphor.md",
+    "2 - Source Material/Books/Non Fiction/Chapters",
+    "Chapter 1.md",
+    "2 - Source Material/Books/Non Fiction/How to Take Smart Notes - Soenke Ahrens.md",
+    "3 - Tags/Notetaking.md",
+    "Mystery Notes/ATTWN/Book Head.md",
+    "Mystery Notes/ATTWN",
+    "Mystery Notes",
+    "Stories/World of Jint/Concepts and Systems/Magic Spells",
     "Stories/Jazz Don't Stop/locations",
     "Stories/Jazz Don't Stop/characters",
     "Stories",
     "Stories/Jazz Don't Stop",
     "5 - Template",
-    "Stories/World of Jint/Concepts and Systems",
-    "Stories/World of Jint/Stories",
-    "Stories/World of Jint/Indexes",
-    "Stories/World of Jint/Groups",
     "6 - Full Notes/Pasted image 20250307101937.png",
     "6 - Full Notes/Pasted image 20250307101953.png"
   ]

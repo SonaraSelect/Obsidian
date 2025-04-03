@@ -1,7 +1,7 @@
 
 2025-03-07 16:19
 
-Status: #baby
+Status:
 
 Tags: [[Notetaking]]
 
@@ -17,7 +17,7 @@ This style of notetaking is all about understanding everything first. You want t
 
 ## 1 - Everything you need to know
 
-Ahren talks a lot about how the linear note-taking fashion is limiting and inflexible, and scarcely encourages learning past what courses require in university.
+Ahrens talks a lot about how the linear note-taking fashion is limiting and inflexible, and scarcely encourages learning past what courses require in university.
 
 # References
 

@@ -4,6 +4,7 @@ The first line of [[Deities]] created by [[Sho-Terra-Nu]]. These gods are more l
 
 [[Revnyris]] - God of Blood and Glory. Represents the core human drive to do difficult things to find purpose.
 [[Eneon]] - God of Hunger. Represents the core drive for more
+[[Lune]] - God of ????. The Moon God. Represents ????
 ## Minor Old Gods
 
 The minor old gods are called "Lights."

@@ -1,0 +1,1 @@
+When the stars align, allowing [[Rahnarth]] to create a [[New Gods|New God]] through the [[birthpot of the gods]].

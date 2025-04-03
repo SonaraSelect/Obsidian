@@ -6,7 +6,7 @@ A control freak perfectionist who always wants to achieve a specific sound. He a
 Let's say he came from a family of jazzheads so there's this huge expectation on him to succeed and be good at jazz. The others liked him because he's very loyal and caring deep down but getting booted from the band really fucked with him.
 ## General vibe
 
-
+NEVER refers to people with nicknames
 ## General Backstory
 
 

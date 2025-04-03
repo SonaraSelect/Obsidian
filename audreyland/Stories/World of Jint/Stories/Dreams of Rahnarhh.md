@@ -1,13 +1,44 @@
 Brainstorm: [[Brainstorm Dreams of Rahnarhh]]
 
-A story about [[Theon]] and [[Reja]] and their band of [[Royal Shamans]] as they journey into the ancient city [[Rahnarth]] to attempt the ritual to birth a [[New Gods|New God]] that's capable of obliterating the nation so everyone can ascend. They are intercepted by a [[TBD rebel group]] that believes there is still reason
+~~A story about [[Theon]] and [[Reja]] and their band of [[Royal Shamans]] as they journey into the ancient city [[Rahnarth]] to attempt the ritual to birth a [[New Gods|New God]] that's capable of obliterating the nation so everyone can ascend. They are intercepted by a [[TBD rebel group]] that believes there is still reason~~
+
+For now, I'll leave World of Jint as really just being 'World of Rahnarth.' I will likely work on other stories in the various nations eventually, but I think right now I'm most interested in developing a story about the dungeon crawl into Rahnarth.
+
+- Why are they going into Rahnarth together?
+- Why are they going into Rahnarth, individually
+- Why are only two of them going and not a full crew?
+
+I'm originally thinking about doing a duo of [[Reja]] and [[Theon]], who probably pick up a third midway. But I don't know what exactly to do with these characters. Right now Theon is a general royal shaman, and Reja is a holy knight who is on contract to guard him. From this it seems they're both related by religion
 
 
-What if we started with the gang camping in the outskirts of Rahnarth. The dream mention can also serve as a roadmap to how close the people are getting to the heart.
+# Themes and Central Points
 
-[[Reja]] is [[Theon]]'s bodyguard.
+### Religion
+
+Something to do with fanaticism and deep beliefs. 
+
+**Using religion as a means to persevere.** 
+*Maybe something about how Reja sacrifices a for religion while Theon is more self conservationist?*
 
 
+\>> Drawing parallels between religious hate and the story, maybe there's like this sort of thing that spawns on people and transforms them that the nation views as a terrible disease that needs to be exterminated, and reja finds many of these people in Rahnarth and one of them ends up being a long lost relative?
+## [[Theon]]
+Questions
+- Why is Theon a shaman?
+- What do shaman's do?
+- Are shaman's respected? What is their place in society?
+Things
+- Honestly I don't have a strong foundation for this character yet
+
+[[testnote]]
+
+## [[Reja]]
+Questions
+- Why is Reja a holy knight?
+- Who do the holy knights serve?
+- They seem respectable. Are they?
+Things
+- I was thinking that Reja would be a very E1 type of character. Either SO1 or SP1, and I really liked this idea of her being this mock Jeanne D'Arc type of devoted character who's belief system gets heavily shattered during the story. Idk... Collapsed knight falling to the ground begging a no longer existing god for light is soooooo umph!!
 # Dreams of Rahnarth
 
 [[Rahnarth]], the ancient City of the Valley. 

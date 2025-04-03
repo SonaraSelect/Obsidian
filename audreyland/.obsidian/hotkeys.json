@@ -4,10 +4,17 @@
       "modifiers": [
         "Mod"
       ],
+      "key": "R"
+    }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
       "key": "T"
     }
   ],
-  "workspace:new-tab": [],
   "app:go-back": [
     {
       "modifiers": [
@@ -58,6 +65,13 @@
         "Shift"
       ],
       "key": "E"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
     }
   ]
 }
