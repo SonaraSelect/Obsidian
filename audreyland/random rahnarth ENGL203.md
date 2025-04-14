@@ -1,0 +1,3 @@
+An excerpt at the height of conflict between Reja and Lomeitheon
+
+Reja shifted her feet on the platform, a small, upside down pyramid, its pointed side facing the ground, or rather the strange substance oozing below. There were multiple platforms hovering above the swirlscape of a hundred different shades of white and gray from the shimmering TK sea beneath them. From the murky backdrop below came thousands of tiny particles, not unlike snow, drifting upwards until they could not be seen past the swarm of white dots coming up below them. The ceiling was not visible.

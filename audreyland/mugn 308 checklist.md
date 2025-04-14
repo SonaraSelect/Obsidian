@@ -1,0 +1,3 @@
+- 2 automations NOT PANNING
+- EQ8 on all tracks
+- instrument rack
