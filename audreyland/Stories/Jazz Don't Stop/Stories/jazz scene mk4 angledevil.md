@@ -92,11 +92,11 @@ I took a deep breath of the cool summer night air as my mom's drove off past the
 
 My hand moved toward the door, but the moment I made contact with the handlebars I froze. *They'd hate how messy my playing is.* A block of ice started to form in my chest, and I decided to sit down on the grass by the door to cool off before I entered the bar. I wanted to move with my best foot forward after all.
 
-I sat down. The opaque clouds made visible by the city's light pollution. An ant was slowly marching through the blades of grass by my foot.
+I sat down. The opaque clouds were still visible in the dark sky because of the city's light pollution. An ant was slowly marching through the blades of grass by my foot.
 
 "What are you doing here?"
 
- I jumped. It was Miles.
+ I jumped. It was Miles, at the edge of the pathway to the entrance.
 
 "I'm surprised you're still playing." Miles said, looking down at me. "Playing out, I mean."
 
@@ -104,21 +104,34 @@ I sat down. The opaque clouds made visible by the city's light pollution. An ant
 
 "Yeah, he brought me out here too. Isn't that funny."
 
-A car passed by on the road. Miles stared at me, seemingly thinking about something. The silence was stressing me out.
+A car passed by on the road. Miles stared at me, seemingly thinking about something. The silence was deafening.
 
 "I've been meaning to tell you," Miles said, "that... you're really frustrating sometimes."
 
 I frowned.
 
-"I spend so much time trying to make you better, and then it works, and then you just run off. You can be almost pathetic sometimes, I hope you know that Simon." Miles said, staring straight at me. "It's infuriating, all these exercises just seem to work for you. Do you know how much harder most people have to work to get to where you're at? And you just try to toss that away. If I were you, a version of you that plays slow- *actually playing jazz*, I'd be playing out in from of everyone every night, probably making some good money off of it too."
+"I spend so much time trying to make you better, and then it works, and then you just run off. You can be almost pathetic sometimes, I hope you know that Simon." Miles said, staring through me. "It's infuriating, all these exercises just seem to work for you. Do you know how much harder most people have to work to get to where you're at? And you just try to toss that away. If I were you, a version of you that plays slow- *actually playing jazz*, I'd be playing out in from of everyone every night, probably making some good money off of it too."
 
 Miles looked at the ground, then shifted his eyes back at me.
 
 "But you," he paused "...you, being so promising... you just take it all and betray the medium entirely. You just start playing notes too quickly. Off tempo, too. All these exercises and you apply none of it."
 
-"Maybe you're right." I said, taking a deep breath. "But honestly I don't think I can listen to you any longer. Sure you helped show me how to practice, and you stuck with me as I plateaued and as I got better." I picked up my case and stood up. "But why do you have to hate playing fast so much. It gets stuck in my head- It's not my fault you can't play faster!"
+"Maybe you're right." I said, taking a deep breath. "But honestly I don't think I can listen to you any longer. Sure you helped show me how to practice, and you stuck with me as I plateaued and as I got better." I picked up my case and got on my feet. "But why do you have to hate playing fast so much. It gets stuck in my head even- It's not my fault you can't play faster!"
 
-Miles' face went sour. "Oh you think I can't play fast? Go inside right now. We're playing Giant Steps. Let's see who's fault it is when you mess up."
+Miles' face went sour. "Oh you think I can't play fast? Get inside. Right now. We're playing Giant Steps. Let's see who's fault it is when you mess up."
 
 ***
 
+The stage lights were blinding, and the place was a bit cramped. A mess of tables were scattered in front of the stage, and almost all the seats were full. The room was filled with the sound of drinks clinking and background chatter. One man was talking to a woman very expressively, another woman was checking her phone. In the back, by the bar, a bartender was shaking a shaker by her chest, her hair swinging around violently as the man sitting by her, elbow on the counter top, watched the stage with his cheek resting on his fist.
+
+"Here's Giant Steps." Miles said into the microphone, before seating himself by the piano. After sitting down he ran a hand through his slicked back hair before looking at Wyatt, behind me. Wyatt gave us a quick thumbs up before tapping his sticks together.
+
+*One. Two. One two three four.*
+
+I blew into the trumpet and the room erupted with the sound us playing all at once. We were playing at 210 bpm, and the bassist's whole body was shaking as he vigorously walked the double bass leaning onto him. A few people in the crowd clapped just for how fast we were playing. 
+
+Soon we finished the head of the song, and it was my turn to solo. I immediately came in with a run up and then down the registers of my trumpet, my fingers gliding effortlessly over my freshly lubricated trumpet valves.
+
+Miles looked at me with a smirk and I faltered. Wyatt was driving the song with a steady pace, but I kept on speeding up and slowing down, sometimes outrunning his pace before overcompensating and falling behind.
+
+"Who's fault is it now?" Miles mouthed over the music. 
