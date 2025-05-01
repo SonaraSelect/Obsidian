@@ -6,17 +6,17 @@ Thwack!
 
 A binder slamming into my side as I yelped into my trumpet. Behind a falling explosion of sheet music in the air, Miles stood up from behind the piano, his face fuming.
 
-"Are you serious, Simon!?" He cried, his voice reverberating across the auditorium. "You always do this. You never pay any attention! What have we been working on all this time. Do you even remember the goal of todays session?"
+"Are you serious, Simon!?" He cried, his voice reverberating across the auditorium. "You always do this. You never pay any attention! What have we been working on all this time? Do you even remember the goal of today's session?"
 
 "...call and response." I muttered, rubbing my side.
 
-"And you are you responding?"
+"And are you responding?"
 
 "No..."
 
 *Another one of his tirades.* I looked to the vacant rows for anyone who could make this end sooner.
 
-"So what now. What else do you want me to do. I do so much for you all, and what do you do? You ruined the last competition with how you played over everyone's solos- and even the final head of the song! Do you seriously think it's all about you? Your playing isn't even good. It isn't! You're just blowing a hot load of musical diarrhea into your horn! And you never stop playing, not even a single break for me to fill in. At that point you're not even playing jazz anymore. Just a bunch of show-off slop." Miles said. He covered his face with his palm and took a deep breath. His slick brown hair didn't move an inch as he shook his head. "I don't know what to do with you at this point. After we first started practicing together you become the best player in the band. What happened!? When did you start getting so careless. You barely even try. Now every time we play you tell me all my hard work was for naught."
+"So what now. What else do you want me to do. I do so much for you all, and what do you do? You ruined the last competition with how you played over everyone's solos- and even the final head of the song! Do you seriously think it's all about you? Your playing isn't even good. It isn't! You're just blowing a hot load of musical diarrhea into your horn! And you never stop playing, not even a single break for me to fill in. At that point you're not even playing jazz anymore. Just a bunch of show-off slop." Miles said. He covered his face with his palm and took a deep breath. His slick brown hair didn't move an inch as he shook his head. "I don't know what to do with you at this point. After we first started practicing together you became the best player in the band. What happened!? When did you start getting so careless? You barely even try. Now every time we play you tell me all my hard work was for naught."
 
 I stared at him. The binder lay by my feet like a corpse. My heart was pounding.
 
@@ -30,7 +30,7 @@ I stared at him. The binder lay by my feet like a corpse. My heart was pounding.
 
 "No, but..." I stuttered. He wasn't entirely wrong. "But you're not helping."
 
-"Yes I am! Who's hosting these practice sessions with you so often. Who's writing all your songs? Who's sending you new exercises for every week? I do all this just for you to ruin everything. I can't take your shit anymore." 
+"Yes I am! Who's hosting these practice sessions with you so often. Who's writing all your songs? Who's sending you new exercises every week? I do all this just for you to ruin everything. I can't take your shit anymore." 
 
 Miles stomped towards me. Taking two steps back, I tripped against the chair behind me, falling down with my trumpet. The silver horn clattered against the ground.
 
@@ -44,7 +44,7 @@ I tried to form a sentence but only jumbled words came out. I looked at my trump
 
 I sat there, cheeks burning, as I stared at the audience of ghosts, all judging me. *I really did ruin that competition for everyone... Maybe performing isn't for me. Before all this I was happy just playing to records alone in my basement.* 
 
-After sniffling, I slowly rose from the cold floor and picked up Miles' binder. I dragged myself to the piano and collected the scattered papers off the brown plywood floor, and I sorted them into the binder, there was a folder for every genre of music, finally placing the binder back where it belong on the piano.
+After sniffling, I slowly rose from the cold floor and picked up Miles' binder. I dragged myself to the piano and collected the scattered papers off the brown plywood floor, and I sorted them into the binder. There was a folder for every genre of music, finally placing the binder back where it belonged on the piano.
 
 ***
 
@@ -66,7 +66,7 @@ I opened my mouth to speak, but Wyatt cut me off before my words could come out.
 
 Wyatt and I had been friends long before Miles invited us to the jazz combo, and we used to practice all the time together, but we could never focus. Wyatt would always ramble about something crazy, never stopping even when we finally would sit down with our instruments, and when he finally finished talking he would just play a bunch of drum lines and ask me if they sounded cool. We never got anything done and I never practiced much outside of those sessions, which is probably the reason I was so mediocre back then, before I met Miles.
 
-"Alright." Wyatt said. "Do you you wanna play out instead? I found a new place."
+"Alright." Wyatt said. "Do you wanna play out instead? I found a new place."
 
 I paused.
 
@@ -88,7 +88,7 @@ I thought about that time. He was right, I had panicked so much about the compet
 
 ***
 
-I took a deep breath of the cool summer night air as my mom's drove off past the neighboring buildings. The bar was a small place and it had its own little parking lot. The only source of light was the big glowing "Parker's Run" sign above the two glass doors. I couldn't see inside as I walked up, my trumpet case strapped to my back, bobbing behind me.
+I took a deep breath of the cool summer night air as my mom drove off past the neighboring buildings. The bar was a small place and it had its own little parking lot. The only source of light was the big glowing "Parker's Run" sign above the two glass doors. I couldn't see inside as I walked up, my trumpet case strapped to my back, bobbing behind me.
 
 My hand moved toward the door, but the moment I made contact with the handlebars I froze. *They'd hate how messy my playing is.* A block of ice started to form in my chest, and I decided to sit down on the grass by the door to cool off before I entered the bar. I wanted to move with my best foot forward after all.
 
@@ -110,13 +110,13 @@ A car passed by on the road. Miles stared at me, seemingly thinking about someth
 
 I frowned.
 
-"I spend so much time trying to make you better, and then it works, and then you just run off. You can be almost pathetic sometimes, I hope you know that Simon." Miles said, staring through me. "It's infuriating, all these exercises just seem to work for you. Do you know how much harder most people have to work to get to where you're at? And you just try to toss that away. If I were you, a version of you that plays slow- *actually playing jazz*, I'd be playing out in from of everyone every night, probably making some good money off of it too."
+"I spend so much time trying to make you better, and then it works, and then you just run off. You can be almost pathetic sometimes, I hope you know that Simon." Miles said, staring through me. "It's infuriating, all these exercises just seem to work for you. Do you know how much harder most people have to work to get to where you're at? And you just try to toss that away. If I were you, a version of you that plays slow- *actually playing jazz*, I'd be playing out in front of everyone every night, probably making some good money off of it too."
 
 Miles looked at the ground, then shifted his eyes back at me.
 
-"But you," he paused "...you, being so promising... you just take it all and betray the medium entirely. You just start playing notes too quickly. Off tempo, too. All these exercises and you apply none of it."
+"But you," he paused, "...you, being so promising... you just take it all and betray the medium entirely. You just start playing notes too quickly. Off tempo, too. All these exercises and you apply none of it."
 
-"Maybe you're right." I said, taking a deep breath. "But honestly I don't think I can listen to you any longer. Sure you helped show me how to practice, and you stuck with me as I plateaued and as I got better." I picked up my case and got on my feet. "But why do you have to hate playing fast so much. It gets stuck in my head even- It's not my fault you can't play faster!"
+"Maybe you're right." I said, taking a deep breath. "But honestly I don't think I can listen to you any longer. Sure you helped show me how to practice, and you stuck with me as I plateaued and as I got better." I picked up my case and got on my feet. "But why do you have to hate playing fast so much? It gets stuck in my head even- It's not my fault you can't play faster!"
 
 Miles' face went sour. "Oh you think I can't play fast? Get inside. Right now. We're playing Giant Steps. Let's see who's fault it is when you mess up."
 
@@ -128,10 +128,19 @@ The stage lights were blinding, and the place was a bit cramped. A mess of table
 
 *One. Two. One two three four.*
 
-I blew into the trumpet and the room erupted with the sound us playing all at once. We were playing at 210 bpm, and the bassist's whole body was shaking as he vigorously walked the double bass leaning onto him. A few people in the crowd clapped just for how fast we were playing. 
+I blew into the trumpet as the room erupted with our music. We were playing at 210 bpm, and the bassist was vigorously plucking the bass with his entire body. A few people in the crowd clapped just for how fast we were playing. 
 
 Soon we finished the head of the song, and it was my turn to solo. I immediately came in with a run up and then down the registers of my trumpet, my fingers gliding effortlessly over my freshly lubricated trumpet valves.
 
-Miles looked at me with a smirk and I faltered. Wyatt was driving the song with a steady pace, but I kept on speeding up and slowing down, sometimes outrunning his pace before overcompensating and falling behind.
+But I couldn't quite follow the rest of the band. Wyatt was driving the sound with a steady pace, but I kept on speeding up and slowing down, sometimes outrunning his pace before overcompensating and falling behind. Each time I got too far away from him, he would slam the snare to try and call me back, but it was to no avail.
 
-"Who's fault is it now?" Miles mouthed over the music. 
+I lowered my horn to try and catch my breath; to take a moment just to think. Within seconds, Miles started playing a line on the piano- he stole my solo. I turned back to Wyatt and he shook his head to say *I don't know either.* 
+
+Miles was glaring at me. *This is my song, not yours.*
+
+I glared back at him and raised my trumpet. I thought of all the times I had practiced and how I always followed Miles' pursuit of perfection. But that wasn't really what I wanted. Looking at Wyatt, he seemed to have so much fun just being here; just being present. That, was what I wanted.
+
+I concentrated on Wyatt's rhythm and my fingers started gliding over the trumpet valves.
+
+Miles stopped and looked at me, astonished.
+
