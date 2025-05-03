@@ -1,4 +1,4 @@
-My fingers moved along as I blew into my trumpet, but I wasn't really paying attention to my playing. Miles looked so focused as he played underlying chords on the piano with his head bent over the instrument, intently watching his fingers sway above the white keys. Occasionally he looked up to make eye contact with me- earlier Miles had been telling me jazz musicians do this all the time during solos, usually to stay in sync and hint at each other "I'm gonna play this line," or "Hey let's play call and response with this line."
+My fingers glided along the valves as I blew into my trumpet, but I wasn't really paying attention to my playing. Miles looked so focused as he played underlying chords on the piano with his head bent over the instrument, intently watching his fingers sway above the white keys. Occasionally he looked up to make eye contact with me- earlier Miles had been telling me jazz musicians do this all the time during solos, usually to stay in sync and hint at each other "I'm gonna play this line," or "Hey let's play call and response with this line."
 
 But each time he looked over, especially with that slightly annoyed look, I shifted my weight to my other foot and I looked away. My eyes counted the empty seats of the auditorium, every so often in the rows, some of the folding seat bottoms still stuck open from someone sitting in them. I liked the emptiness, and the dim lighting- we hadn't bothered to turn on the stage lights- made me feel even more at home.
 
@@ -143,3 +143,8 @@ I glared back at him and raised my trumpet. I thought of all the times I had pra
 I concentrated on Wyatt's rhythm and my fingers started gliding over the trumpet valves.
 
 Miles stopped and looked at me, astonished.
+
+
+
+- Miles foot tapping, but he messes up and he's wavering
+- 
