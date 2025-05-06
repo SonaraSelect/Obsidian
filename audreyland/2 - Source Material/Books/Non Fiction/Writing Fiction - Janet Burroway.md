@@ -11,6 +11,9 @@ todo
 ## [[Chapter 5 - Long Ago and Far Away, setting]]
 
 - Let the scene be its own character, it has things to say; opinions and feelings. Also how to use flash backs and a reminder to just leave blank space (time skip) if necessary. Don't carry dead weight in your story
+# [[Chapter 6 - Plot and Structure]]
+
+- Honestly idrk sorry
 ## [[Chapter 7 - Call Me Ishael, PoV]]
 
 - Who speaks, to whom, at what distance?
