@@ -52,7 +52,7 @@ Clearing my throat, I slowly rose from the cold floor and picked up Miles' binde
 
 Since Mile's tirade I became a no-show to our rehearsals, and I never messaged anyone about my leave. Wyatt, the drummer, probably told them on my behalf. 
 
-A week passed by, and it was the day of the competition. I stayed home. As usual, I was spending my time playing along with my collection of jazz records in the unfinished basement. The place looked ridiculous, really. One wall had a wooden beadboard pattern while the rest were drywall. One was painted yellow, another pink. The air was musty and topped the room off with a dirty, poorly maintained feeling. Maybe that room was what I deserved. 
+A week passed by, and it was the day of the competition. I stayed home. As usual, I was spending my time playing along with my collection of jazz records in the unfinished basement. The place looked ridiculous, really. One wall had a wooden beadboard pattern while the rest were drywall. One was painted yellow, another pink. The air was musty and topped the room off with a dirty, poorly maintained feeling.
 
 I blasted one *Giant Steps* on the record player over and over again and played along. It was insanely fast and technical, but it was my dream to play the song like Coltrane did. I had been coming close, but every few lines I would stumble and fall. After maybe 3 hours of failing over and over again, and I set the trumpet down as frustration took over my body. *Maybe Miles was right.*
 

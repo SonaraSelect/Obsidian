@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Writing.md",
+                "file": "Stories/Jazz Don't Stop/Stories/jazz scene mk5.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing"
+              "title": "jazz scene mk5.6"
             }
           },
           {
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Indexes/Writing.md",
+                "file": "Stories/Jazz Don't Stop/Stories/jazz scene mk5.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Writing"
+              "title": "Backlinks for jazz scene mk5.6"
             }
           },
           {
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Indexes/Writing.md",
+                "file": "Stories/Jazz Don't Stop/Stories/jazz scene mk5.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Writing"
+              "title": "Outgoing links from jazz scene mk5.6"
             }
           },
           {
@@ -207,9 +207,17 @@
   },
   "active": "3f75f3a62eb3fb18",
   "lastOpenFiles": [
+    "Obisidian for Writing.md",
+    "Approaching Obsidian.md",
+    "AD9837.md",
+    "2 - Source Material/Articles/Fear of Faith - Carol Flath.md",
+    "job ai.md",
+    "temp.md",
+    "RL Board Checklist.md",
+    "2 - Source Material/Articles/A Case for an Open Ending - Gary Rosenshield.md",
+    "4 - Indexes/Writing.md",
     "4 - Indexes",
     "2 - Source Material/Books/Non Fiction/Writing Fiction - Janet Burroway.md",
-    "4 - Indexes/Writing.md",
     "3 - Tags/Plot and Structure.md",
     "3 - Tags/Story Editing.md",
     "2 - Source Material/Videos/How to Outline - Brandon Sanderson meets Write Your Novel from the Middle.md",
@@ -226,14 +234,7 @@
     "Poems/Grocery Store mk1.md",
     "Stories/Jazz Don't Stop/Stories/jazz scene mk5.6.md",
     "Stories/Jazz Don't Stop/Stories/jazz scene mk5.5.md",
-    "Poems/Saxophone mk1.md",
     "Poems",
-    "A Case for an Open Ending - Gary Rosenshield.md",
-    "Fear of Faith - Carol Flath.md",
-    "2 - Source Material/Books/Non Fiction/Chapters/Chapter 5 - Long Ago and Far Away, setting.md",
-    "Stories/Jazz Don't Stop/Stories/jazz scene mk4 angledevil.md",
-    "Stories/Jazz Don't Stop/Stories/jazz scene.md",
-    "Approaching Obsidian.md",
     "Stories/Jazz Don't Stop/Stories",
     "2 - Source Material/Books/Fiction",
     "2 - Source Material/Books/Non Fiction/Chapters",
@@ -242,7 +243,6 @@
     "Stories/World of Jint/Concepts and Systems/Magic Spells",
     "Stories/Jazz Don't Stop/locations",
     "Stories/Jazz Don't Stop/characters",
-    "Stories",
     "6 - Full Notes/Pasted image 20250307101937.png",
     "6 - Full Notes/Pasted image 20250307101953.png"
   ]
