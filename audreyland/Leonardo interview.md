@@ -1,8 +1,8 @@
-
 **Things to do**
 - Research
 	- Look up glassdoor interview questions
 	- Look up interview questions on other sites
+	- Youtube videos on how to approach panel interviews
 - Fix solitaire
 - Python
 	- Do python programming challenges with GPT
@@ -10,10 +10,19 @@
 	- How do pointers work
 	- Pointers programming challenges with GPT
 	- Look up interview questions
+- HDLs
+	- Do Verilog programming challenges, then VHDL programming challenges with GPT
+	- Go through old VHDL code with GPT to see how it works, then directly ask for tutorial
+- General Software
+	- Do some light review in Java
+	- General interview questions: OOP, etc
 - Digital Design
 	- Do all exam questions, GPT extra credit solutions
 	- Go through homework assignments to remember stuff
 		- Q&M, state reduction, state transitions, FSMs, nmos to pmos, reading stick diagrams
+- EE
+	- World's fastest E&M review
+	- World's fastest circuits review
 - Behavioral
 	- Brainstorm 2 stories for each type
 		- Present each story 3 times to camera
@@ -22,8 +31,8 @@
 	- ^^ all on laptop in proper setup
 - MeRCIS 
 	- Finalize a story and figure out a solution to DDS problem
+	- Remember we said toby was butthurt
 - SimCorp
 	- Review how flask works
 	- *Maybe* review what I researched for AI (word vectorization and choosing the right model)
-
-**Final prep**
+	- Remember we said 2 other backend devs
