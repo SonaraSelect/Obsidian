@@ -6,8 +6,9 @@
 - Fix solitaire
 - Python
 	- Do python programming challenges with GPT
+	- Maybe ask GPT about scripting challenges specifically
 - C
-	- How do pointers work
+	- **How do pointers work**
 	- Pointers programming challenges with GPT
 	- Look up interview questions
 - HDLs
