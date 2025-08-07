@@ -13,40 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Plot and Structure.md",
+                "file": "FPGA Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plot and Structure"
+              "title": "FPGA Notes"
             }
           },
           {
-            "id": "3f75f3a62eb3fb18",
+            "id": "745c2a7c9f35c987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/Jazz Don't Stop/Stories/aaaaaa.md",
+                "file": "Stories/Jazz Don't Stop/Exercises/JDS I want what you have.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aaaaaa"
+              "title": "JDS I want what you have"
             }
           },
           {
-            "id": "8dbe69cfaa606112",
+            "id": "0e30f4c3aa964fbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "German Resources.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "German Resources"
+            }
+          },
+          {
+            "id": "815bc4d9c2b9045d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/Jazz Don't Stop/Stories/Simon's 3k/jazz scene mk5.6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jazz scene mk5.6"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,44 +223,44 @@
       "obsidian-stille:Toggle Stille": false
     }
   },
-  "active": "3f75f3a62eb3fb18",
+  "active": "0e30f4c3aa964fbd",
   "lastOpenFiles": [
+    "German Plan.md",
+    "German Resources.md",
+    "jazz exe]/IWWYH.md",
+    "jazz exe]",
+    "Stories/Jazz Don't Stop/Exercises/JDS I want what you have.md",
+    "Stories/Jazz Don't Stop/Exercises",
+    "Stories/Jazz Don't Stop/Stories/Livvy/livvy scene.md",
+    "Stories/Jazz Don't Stop/Stories/Livvy/Head.md",
+    "Stories/Jazz Don't Stop/Stories/Simon's 3k/jazz scene mk5.6.md",
+    "FPGA Notes.md",
+    "Stories/Jazz Don't Stop/characters/Wyatt.md",
     "Stories/Jazz Don't Stop/Stories/Simon's 3k/jazz scene.md",
+    "Stories/Jazz Don't Stop/characters/Simon.md",
+    "Stories/Jazz Don't Stop/characters/Miles.md",
+    "Stories/Jazz Don't Stop/characters/Livvy.md",
+    "Stories/Jazz Don't Stop/Stories/Livvy",
+    "Project Notes.md",
+    "Behavioral Interview.md",
+    "Leonardo interview.md",
+    "Termina presentation.md",
     "Stories/Jazz Don't Stop/Stories/aaaaaa.md",
     "Stories/Jazz Don't Stop/Stories/Simon's 3k/Jazz scene mk2.md",
     "Stories/Jazz Don't Stop/Stories/Simon's 3k/jazz scene mk4 angledevil.md",
     "Stories/Jazz Don't Stop/Stories/Simon's 3k/jazz scene mk5.5.md",
     "Stories/Jazz Don't Stop/Stories/Simon's 3k/jazz scene zz alt Miles ver.md",
-    "Stories/Jazz Don't Stop/Stories/Simon's 3k/jazz scene mk5.6.md",
     "Stories/Jazz Don't Stop/Stories/Simon's 3k/jazz scene mk5.md",
     "Stories/Jazz Don't Stop/Stories/Simon's 3k/jazz scene mk3.md",
     "job ai.md",
     "Stories/Jazz Don't Stop/Stories/Simon's 3k",
     "3 - Tags/Plot and Structure.md",
-    "Leonardo interview.md",
-    "Obisidian for Writing.md",
-    "Stories/World of Jint/Concepts and Systems/Termina.md",
-    "Stories/World of Jint/Concepts and Systems/Magic Spells/Bite of Eneon.md",
-    "Stories/World of Jint/Characters/testnote.md",
-    "Approaching Obsidian.md",
-    "AD9837.md",
-    "2 - Source Material/Articles/Fear of Faith - Carol Flath.md",
-    "temp.md",
-    "RL Board Checklist.md",
-    "2 - Source Material/Articles/A Case for an Open Ending - Gary Rosenshield.md",
-    "4 - Indexes/Writing.md",
     "4 - Indexes",
-    "2 - Source Material/Books/Non Fiction/Writing Fiction - Janet Burroway.md",
-    "3 - Tags/Story Editing.md",
-    "2 - Source Material/Videos/How to Outline - Brandon Sanderson meets Write Your Novel from the Middle.md",
     "Poems",
     "Stories/Jazz Don't Stop/Stories",
     "2 - Source Material/Books/Fiction",
     "2 - Source Material/Books/Non Fiction/Chapters",
     "Mystery Notes/ATTWN",
-    "Mystery Notes",
-    "Stories/World of Jint/Concepts and Systems/Magic Spells",
-    "Stories/Jazz Don't Stop/locations",
     "6 - Full Notes/Pasted image 20250307101937.png",
     "6 - Full Notes/Pasted image 20250307101953.png"
   ]
