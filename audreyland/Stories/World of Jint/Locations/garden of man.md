@@ -1,0 +1,1 @@
+Kind of like the garden of eden, this is where mankind originated from?

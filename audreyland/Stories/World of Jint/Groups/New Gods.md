@@ -2,6 +2,5 @@ Gods that were created in [[Rahnarth]]. Unlike the Old God's, they don't resembl
 
 ## New Gods
 
-[[Naratha]] - God of New Era. Was improperly created and led to the destruction to [[Rahnarth]].
 [[????]] - the God Killer (maybe dont do this idea, the old gods killed STN together)
 - [ ] [[Lord of Observation]] - yesss 

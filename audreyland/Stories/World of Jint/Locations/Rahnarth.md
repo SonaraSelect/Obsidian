@@ -20,9 +20,7 @@ What did [[New Gods]] did [[Nartha]] create? Are they related to the [[Gorne Emp
 - Snowing upside down, the snow is slowly growing and its particles are slowly ripped off and moved upwards. You do NOT want to leave crates or large surface area things on the snow, here there are tons of floating structures, all with pointed bottoms to move the snow off of them (almost looks as if they are standing on needles)
 
 - Maybe a dead city just isn't as interesting. What if I added a bunch of fun things to make getting to the heart of Rahnarth as difficult as possible. I would like to add various factions within the city per layer. Honestly I should mirror Made in Abyss a good bit, maybe staying in each layer for a while fucks you up and makes it harder to leave. At the very least I know that staying in Rahnarth for too long is guaranteed to damage you.
-- The city was once a utopia but it turned into what it is now because of the failed creation of [[Naratha]], one of the many [[New Gods]].
-
-- Is the city self aware? Like, is [[Naratha]]'s corpse trying to stop people from ever using this technology again?
+- The city was once a utopia but it turned into what it is now because of the [[Narthic Rot]]
 
 ## Layers of the city
 
