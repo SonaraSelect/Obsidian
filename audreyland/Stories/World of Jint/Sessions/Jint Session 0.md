@@ -6,13 +6,11 @@
 ## Mythology
 *The tale of Sho-Terra-Nu and her Revnyris*
 
-This story is older than the king.
-
 In the beginning there was naught. Not a void, not even an emptiness. Truly nothing.
 Until she was born, created by she alone, creator of all: Sho-Terra-Nu.
 
 In the eternity of nothingness, she thought of light. And then there was light.
-Shocked by her creation, he mind began to wander.
+Startled by her creation, he mind began to wander.
 
 She thought of land. And then there was land.
 Of the sky. And then there was the sky.
@@ -55,4 +53,19 @@ The three largest pieces are named Sho, Terra, and Nue. Embodying creation, eart
 
 As for today, no one has found enough pieces. They are so scattered that many question if they really exist. The gods are believed to exist, but some think they may be slowly leaving us. They have not contacted us in eons, but 
 ***
-## Recent events
+## The Present
+
+You live in the [[Kingdom of Jude]], a gigantic [[Sho-Terra-Nu|Sho-Terran]] empire spanning most of the continent of [[Axia]] that was unified many centuries ago by the great [[King Jude]]. To you, living here has always been bearable at the very least. The government handles most things, like assigning people jobs, controlling the flow of goods, and providing nearly all the necessary basic services. But living isn't always easy. A couple generations ago inflation started to take over, and most lower class people work 1-2 unofficial jobs alongside their government assigned one. One 
+
+
+, but things have gone awry:
+
+Rumors have it the king has gone missing. Some think there's a coup going on- even though they have managed to stay in control for most of his lifetime, and others think they have died- even though they have lived a thousand years and are thought to live a thousand more.
+
+What you do know is whoever is in control has enacted martial law, and there have been reports of royal guards abducting people from their homes, seemingly at random- something unexpected after centuries of peace. The criminal factions you've been in touch with all seem to be preparing for war, and there have been more royal guards moving through your streets than ever seen before.
+
+The chaos does not end there.
+
+You heard about this from some drunken information broker at your favorite dingy tavern: Mount Olympus, the tallest mountain in all the land, is rumored to have collapsed- for reasons uncertain. She said it left behind no rubble, instead there is a valley in its place- one cradling a gigantic ancient city. A strange, desolate place riddled with esoteric artifacts channeling types of magic never seen before. She said this City of the Valley is a living and breathing thing, but you don't understand what that really means. All you know for certain is that there are people selling these alleged magical artifacts for a really, really high price.
+
+And one important thing. One of these curios is going to make an appearance at a black market auction near you.
