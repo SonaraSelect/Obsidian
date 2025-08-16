@@ -19,15 +19,13 @@ Of the mountains, the valleys, the waterfalls, the sun, the deserts, and all the
 But the animals simply stood there, inanimate. Bored, she looked to the nothingness beyond the world, and thought of the void.
 And then there was Eneon, the god of the void; the god of hunger, who sat patiently in his nothingness, watching Sho-Terra-Nu from afar.
 
-"Give to me all things when they expire, and let me devour them." said the void incarnate.
+With Eneon's presence, the water in the world began to break mountains and carve canyons, occasionally flooding and drowning the unmoving, lifeless animals.
 
-She met eyes with his dark silhouette, and nodded before returning to her other creations. With Eneon's presence, the water in the world began to break mountains and carve canyons, occasionally flooding and drowning the unmoving, lifeless animals.
-
-As she watched Eneon devour them, she felt pain. She wanted the animals to avoid the floods and other disasters, and she thought of life.
+As she watched Eneon devour them, stripping them from existence, she felt pain. She wanted the animals to avoid the floods and other disasters, and she thought of life.
 
 In that moment, Revnyris, the goddess of blood in all her glory, sprouted up before her, and Revnyris embedded herself into the animals, adorning them with her life essence.
 
-It became a ritual. Sho-Terra-Nu would think of a new being, her idea a gift to the other goddess, and Revnyris would take it and imbue herself into Sho-Terra-Nu's creation, adorning it with love with all her might until it was time for Eneon's feast, this love created a beautiful sunset with every ritual.
+It became a ritual. Sho-Terra-Nu would think of a new being, her idea a gift to the other goddess, and Revnyris would take it and imbue herself into Sho-Terra-Nu's creation, adorning it with her love with all her might until it was time for Eneon's feast.
 
 To prolong how long Revnyris could adorn herself with Sho-Terra-Nu's creations, they taught the creatures to survive, and the creatures lived in great harmony together.
 
@@ -55,7 +53,7 @@ As for today, no one has found enough pieces. They are so scattered that many qu
 ***
 ## The Present
 
-You live in the [[Kingdom of Jude]], a gigantic [[Sho-Terra-Nu|Sho-Terran]] empire spanning most of the continent of [[Axia]] that was unified many centuries ago by the great [[King Jude]]. To you, living here has always been bearable at the very least. The government handles most things, like assigning people jobs, controlling the flow of goods, and providing nearly all the necessary basic services. But living isn't always easy. A couple generations ago inflation started to take over, and most lower class people work 1-2 unofficial jobs alongside their government assigned one. One 
+You live in the [[Kingdom of Jude]], a gigantic [[Sho-Terra-Nu|Sho-Terran]] empire spanning most of the continent that was unified many centuries ago by the great [[King Jude]]. To you, living here has always been bearable at the very least. The government handles most things, like assigning people jobs, controlling the flow of goods, and providing nearly all the necessary basic services. But living isn't always easy. A couple generations ago inflation started to take over, and most lower class people work 1-2 unofficial jobs alongside their government assigned one. One 
 
 
 , but things have gone awry:
@@ -64,8 +62,6 @@ Rumors have it the king has gone missing. Some think there's a coup going on- ev
 
 What you do know is whoever is in control has enacted martial law, and there have been reports of royal guards abducting people from their homes, seemingly at random- something unexpected after centuries of peace. The criminal factions you've been in touch with all seem to be preparing for war, and there have been more royal guards moving through your streets than ever seen before.
 
-The chaos does not end there.
-
-You heard about this from some drunken information broker at your favorite dingy tavern: Mount Olympus, the tallest mountain in all the land, is rumored to have collapsed- for reasons uncertain. She said it left behind no rubble, instead there is a valley in its place- one cradling a gigantic ancient city. A strange, desolate place riddled with esoteric artifacts channeling types of magic never seen before. She said this City of the Valley is a living and breathing thing, but you don't understand what that really means. All you know for certain is that there are people selling these alleged magical artifacts for a really, really high price.
+You have also heard about something from some drunken information broker at your favorite dingy tavern: Mount Olympus, the tallest mountain in all the land, is rumored to have collapsed- for reasons uncertain. She said it left behind no rubble, instead there is a valley in its place- one cradling a gigantic ancient city. A strange, desolate place riddled with esoteric artifacts channeling types of magic never seen before. She said this City of the Valley is a living and breathing thing, but you don't understand what that really means. All you know for certain is that there are people selling these alleged magical artifacts for a really, really high price.
 
 And one important thing. One of these curios is going to make an appearance at a black market auction near you.
