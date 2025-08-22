@@ -1,15 +1,10 @@
 *Welcome to the World of Jint, my friends*
 
-"Every nation at war with one another over a meaningless squabble to assert an ultimate god.
-
-
-A futile squabble between each nation to prove a 'true god.' See they not the resurgence of the antediluvian trifecta awaiting us amidst the end of everything? Merely it is a matter of time, and we must unify if we wish for rapture in the cradle of perfection when it arrives."
+"And I looked at them all. A futile squabble between each nation to prove a 'true god.' See they not the resurgence of the antediluvian trifecta awaiting us amidst the end of everything? Merely, as all, it is a matter of time, and we must unify if we wish for rapture once the cradle of perfection is to dually arrive."
 *-King Jude*
 ***
 ## Mythology
 *The tale of Sho-Terra-Nu and her Revnyris*
-
-- Don't be so on the nose with the yuri, and maybe make it toxic yuri. Just say "craving her sweet embrace, she would cradle her essence in the constructs of STN's creation"
 
 In the beginning there was naught. Not a void, not even an emptiness. Truly nothing.
 Until she was born, created by she alone, creator of all: Sho-Terra-Nu.
@@ -34,7 +29,7 @@ It became a ritual. Sho-Terra-Nu would think of a new being, her idea a gift to 
 
 To prolong how long Revnyris could imbue herself into Sho-Terra-Nu's creations, they taught the creatures to survive, and the creatures lived in great harmony together.
 
-Sho-Terra-Nu would create a vessel, and Revnyris, aching to enter her vessel, would coarse through the veins of the creature, and as the two gods resonated with each other in shared creation they would bask in the resulting sunsets of creation.
+Sho-Terra-Nu would create a vessel, and Revnyris, aching to enter it, would coarse through the veins of the creature, and as the two goddesses resonated with each other in shared creation they would bask in the resulting sunsets of creation.
 
 They continued this ritual for eons, and it was good.
 
@@ -42,8 +37,7 @@ Until Eneon's destruction began to surface again. Some unlucky creatures were tr
 
 She thought of famine, of war, of murder, of abuse. And there it was, and it was not good.
 
-Revnyris saw her panic, but all she could do was continue her love ritual with Sho-Terra-Nu, as it was the only thing that could ease her mind. But it wasn't enough. Eneon continued to devour and devour.
-^^^^\--
+Revnyris saw her panic, but all she could do was continue the ritual with her, as it was the only thing that could ease her mind. But it wasn't enough. Eneon continued to devour and devour, spawning more and more evils.
 
 Soon Sho-Terra-Nu became completely unresponsive, lost in her endless looping thoughts. Things would appear randomly, without reason. New laws, animals, monsters, and even minor gods.
 
@@ -51,7 +45,7 @@ Watching the rotting husk of her love, Revnyris knew what needed to be done to s
 
 With the help of a thousand minor gods, Revnyris raised her sacred sword and sliced Sho-Terra-Nu into a thousand pieces, and her frenzied terror of creation came to a near halt.
 
-While her remnants still think today- Revnyris still performs the creation ritual of life with what's left every sunset- her power has been greatly reduced, and the world is safe, even if all already spawned evils are still left to reign terror.
+While her remnants still think today- Revnyris still performs the creation ritual of life with what's left every sunset- though her power has been greatly reduced, and the world is safe, even if all already spawned evils are still left to reign terror.
 
 The three largest pieces are named Sho, Terra, and Nue. Embodying creation, earth, and false animation respectively. We do not know the goddess of creation's true name. It is said that if someone can gather enough pieces, they may be able to harness Sho-Terra-Nu's power and please themselves with endless creation.
 

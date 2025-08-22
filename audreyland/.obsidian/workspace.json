@@ -247,8 +247,7 @@
       "command-palette:Open command palette": false,
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-stille:Toggle Stille": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-stille:Toggle Stille": false
     }
   },
   "active": "5630f762399d1a17",
