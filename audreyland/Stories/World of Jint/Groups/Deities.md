@@ -18,7 +18,7 @@ Each nation typically believes in only one god as the benevolent major one. The 
 ### Minor Old Gods
 The minor old gods are called "Lights."
 
-[[Unnamed]] - Light of Art. God representing man kinds desire for connections with others
+[[Delenne]] - Light of Art. God representing man kinds desire for connections with others
 [[Symeon]] - Light of Devotion. Represents dedication as a core component of hope
 [[Archimeral]] - Light of trickery, servant of [[Lune]]
 [[Armeleon]] - Light of Dark, kind of like Prometheus! He granted [[Gideon]] the chance to ascend.
