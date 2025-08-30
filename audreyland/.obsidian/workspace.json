@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp.md",
+                "file": "C sharp notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temp"
+              "title": "C sharp notes"
             }
           }
         ],
@@ -296,6 +296,8 @@
   "active": "b416281641da202a",
   "lastOpenFiles": [
     "German Plan.md",
+    "C sharp notes.md",
+    "temp.md",
     "German Resources.md",
     "Stories/World of Jint/Player Characters/AA - Jint Player Characters.md",
     "Stories/World of Jint/Player Characters/Pilivy.md",
@@ -321,8 +323,6 @@
     "Stories/World of Jint/Events",
     "Stories/World of Jint/Groups/Gorne Empire.md",
     "Stories/World of Jint/Concepts and Systems/Magic Spells/Bite of Eneon.md",
-    "Stories/World of Jint/Characters/Sho-Terra-Nu.md",
-    "Stories/World of Jint/Characters/Lune.md",
     "Stories/World of Jint/misc",
     "Stories/World of Jint/Sessions",
     "jazz exe]",
