@@ -1,4 +1,4 @@
-# Pilivy Dairnyll - AC 15 | HP 38/38
+# Pilivy Dairnyll (They/Them)- AC 15 | HP 38/38
 *Changeling Bard (College of Souls) | Medium Fey*
 ***
 **Level**: 5
