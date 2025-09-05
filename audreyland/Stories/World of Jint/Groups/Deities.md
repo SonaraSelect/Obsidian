@@ -6,6 +6,7 @@ Old Gods were created by STN, while the New Gods were created by the Nartha in R
 The old golds are like people, the new gods and ascended ones are like energies and ideas
 ***
 # Old Gods
+See [[Reworked Jint Pantheon]]
 ## Major Old Gods
 Each nation typically believes in only one god as the benevolent major one. The rest are usually seen as terribly evil or harmful to society as a whole.
 
@@ -19,7 +20,7 @@ Each nation typically believes in only one god as the benevolent major one. The 
 The minor old gods are called "Lights."
 
 [[Delenne]] - Light of Art. God representing man kinds desire for connections with others
-[[Symeon]] - Light of Devotion. Represents dedication as a core component of hope
+[[Emeial]] - Light of Devotion. Represents dedication as a core component of hope
 [[Archimeral]] - Light of trickery, servant of [[Lune]]
 [[Armeleon]] - Light of Dark, kind of like Prometheus! He granted [[Gideon]] the chance to ascend.
 

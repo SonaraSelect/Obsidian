@@ -50,21 +50,23 @@ So, the lands used to be split up into many groups, divided by the gods they wor
 
 The rundown:
 
-**Sho** - The creation part of the true creator. These people have always engineering mindbreaking structures, and people from these cultures often 
+**Sho** (Shoan) - The creation part of the true creator. These people have always engineering mindbreaking structures, and people from these cultures often 
 
-**Terra** - These people love the earth and the animals. Think of druids.
+**Terra** (Terran) - These people love the earth and the animals. Think of druids.
 
-**Nue** - The false animation part of the true creator. These people's cultures revolves completely around their ancestors and worshipping these dead.  Talk to me about this if you're interested, it's based off of the real primary culture of Madagascar
+**Nue** (Nuite) - The false animation part of the true creator. These people's cultures revolves completely around their ancestors and worshipping these dead.  Talk to me about this if you're interested, it's based off of the real primary culture of Madagascar
 
-**Revnyris** - The god of blood and glory. People who worship Revnyris (as in the few who arent absolute human sacrificing fanatics- ie those who live in Jude) believe in perfecting their bodies and their lives. They strive for physical perfection, although some of them really just believe in hedonism and work to become lazy ass rich people (usually through exploitation)
+**Revnyris** (Nyrisan) - The god of blood and glory. People who worship Revnyris (as in the few who arent absolute human sacrificing fanatics- ie those who live in Jude) believe in perfecting their bodies and their lives. They strive for physical perfection, although some of them really just believe in hedonism and work to become lazy ass rich people (usually through exploitation)
 
-**Eneon** - Don't pick this unless you're insane. These people are mainly constricted to their own war nation thats filled with "savage barbarians." These people wish to destroy and kill and tear things apart; They resemble entropy. If you are set on this talk to me, we can make it work.
+**Eneon** (Enite) - Don't pick this unless you're insane. These people are mainly constricted to their own war nation thats filled with "savage barbarians." These people wish to destroy and kill and tear things apart; They resemble entropy. If you are set on this talk to me, we can make it work.
 
-**Delenne** - Delenne is a "light" (a minor old god). She is the Light of Art, or, in other words, the light of intelligence. People who follow Delenne are extremely studious and often dedicate themselves to the world of the new magic (dnd magic), which very much still persists in the present day.
+- They believe death is the highest honor they can achieve, and they live to die spectacularly
 
-**Symeon** - The Light of Trickery. These people are chaotic and selfish, though when you make a true alliance with one (these are hard to make!) they are truly loyal and will backstab to help you. Their culture believes in self preservation above all else and making a living that doesnt depend on others (yes this includes crime and petty theft... think a lot of crazy rogues)
+**Delenne** (Delennite) - Delenne is a "light" (a minor old god). She is the Light of Art, or, in other words, the light of intelligence. People who follow Delenne are extremely studious and often dedicate themselves to the world of the new magic (dnd magic), which very much still persists in the present day.
 
-**Archimeral** - Light of Dark. Archimeral is like prometheus. You'll hear his story one day. His followers are skeptics of the government and other power, and are taught to always question authority and self govern. The craziest ones are anarchistic terrorists, but the good ones make extremely great political officials who protect the oppressed.
+**Symeon** (Symeite) - The Light of Trickery. These people are chaotic and selfish, though when you make a true alliance with one (these are hard to make!) they are truly loyal and will backstab to help you. Their culture believes in self preservation above all else and making a living that doesnt depend on others (yes this includes crime and petty theft... think a lot of crazy rogues)
+
+**Archimeral** (Archite) - Light of Dark. Archimeral is like prometheus. You'll hear his story one day. His followers are skeptics of the government and other power, and are taught to always question authority and self govern. The craziest ones are anarchistic terrorists, but the good ones make extremely great political officials who protect the oppressed.
 
 ***
 So yes, 
@@ -78,7 +80,7 @@ So yes,
 - [[Mendon]] (region) -
 - 
 ### Other Nations
-- [[Land of Golden Hands]] - a religious fanatic city state where the church rules over everything
+- [[Land of Crimson Hands]] - a religious fanatic city state where the church rules over everything
 	- Based off of HBI's. They believe they are the chosen race of people, since no one (but the Terra-Nue fanatics) reject [[Revnyris]] as the goddess of life.
 	- They're [[Revnyris]] cultists and they have a lot of strange rituals.
 		- They believe in perfecting the body to let as much blood run free. These people are usually very fit and have beliefs about consuming the blood of their enemies, of certain animals, etc. Every few months they hold rituals where they drink the raw blood of the [[Golden Holy Animal]].

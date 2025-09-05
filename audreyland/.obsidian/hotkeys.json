@@ -73,5 +73,14 @@
       ],
       "key": "P"
     }
+  ],
+  "ink:create-drawing-section": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }

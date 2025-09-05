@@ -1,5 +1,5 @@
 [[Gorne Empire]]
 [[Mooneaters]]
 [[Haik Rebellion]]
-[[Land of Golden Hands]]
+[[Land of Crimson Hands]]
 [[Kingdom of Jude]]

@@ -1,5 +1,5 @@
 
-A cult of scientists run by the [[Land of Golden Hands]]' government that focuses on researching and developing [[Blood Magic]] tools, weapons, and rituals.
+A cult of scientists run by the [[Land of Crimson Hands]]' government that focuses on researching and developing [[Blood Magic]] tools, weapons, and rituals.
 
 
 ## Hierarchy

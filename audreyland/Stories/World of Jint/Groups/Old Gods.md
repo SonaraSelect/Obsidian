@@ -11,5 +11,5 @@ The first line of [[Deities]] created by [[Sho-Terra-Nu]]. These gods are more l
 The minor old gods are called "Lights."
 
 [[Unnamed]] - Light of Art. God representing man kinds desire for connections with others
-[[Symeon]] - Light of Devotion. Represents dedication as a core component of hope
+[[Emeial]] - Light of Devotion. Represents dedication as a core component of hope
 [[Archimeral]] - Light of trickery, servant of [[Lune]]

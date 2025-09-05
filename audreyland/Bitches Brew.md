@@ -1,0 +1,1 @@
+This establishment focuses most of gambling, drugs, alcohol, and pit fights, with significantly less prostitution than the others

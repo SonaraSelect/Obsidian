@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca08b612e386a86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/World of Jint/Characters/Sho-Terra-Nu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sho-Terra-Nu"
-            }
-          },
-          {
             "id": "74cee792f3f58c05",
             "type": "leaf",
             "state": {
@@ -36,73 +22,17 @@
             }
           },
           {
-            "id": "3bcb6e7e796bb5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/World of Jint/Concepts and Systems/Magic (General).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magic (General)"
-            }
-          },
-          {
             "id": "80722f5464689089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/World of Jint/Locations/Estopoles.md",
+                "file": "C sharp notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estopoles"
-            }
-          },
-          {
-            "id": "5630f762399d1a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/World of Jint/Sessions/Jint Session 0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jint Session 0"
-            }
-          },
-          {
-            "id": "251739c39079e3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/World of Jint/Player Characters/AA - Jint Player Characters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AA - Jint Player Characters"
-            }
-          },
-          {
-            "id": "4a87facc5ebb0f4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 -Template/dnd character.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dnd character"
+              "title": "C sharp notes"
             }
           },
           {
@@ -120,21 +50,83 @@
             }
           },
           {
+            "id": "42a09796ed1e0d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/World of Jint/Player Characters/Caiaphen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caiaphen"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0e4c3e5572fc2812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bc7ca23af45c025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/World of Jint/Groups/Estopoles Factions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estopoles Factions"
+            }
+          },
+          {
+            "id": "3a5a8fbffc9983bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reworked Jint Pantheon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reworked Jint Pantheon"
+            }
+          },
+          {
+            "id": "5ee397a403da319a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/World of Jint/Handouts/Rhys factions handout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rhys factions handout"
+            }
+          },
+          {
             "id": "b416281641da202a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/World of Jint/Player Characters/Pilivy.md",
+                "file": "Stories/World of Jint/Sessions/Jint Session 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pilivy"
+              "title": "Jint Session 0"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,44 +285,44 @@
       "obsidian-stille:Toggle Stille": false
     }
   },
-  "active": "b416281641da202a",
+  "active": "80722f5464689089",
   "lastOpenFiles": [
+    "Blitzer.md",
+    "Harvey Handout.md",
+    "Stories/World of Jint/Player Characters/AA - Jint Player Characters.md",
+    "Stories/World of Jint/Locations/Estopoles.md",
+    "Stories/World of Jint/Groups/Estopoles Factions.md",
+    "Stories/World of Jint/Handouts/Rhys factions handout.md",
+    "Reworked Jint Pantheon.md",
+    "Stories/World of Jint/Groups/Old Gods.md",
+    "Listener.md",
+    "Preacher.md",
+    "Rogues Guild.md",
+    "Bitches Brew.md",
+    "Peter handout.md",
+    "Stories/World of Jint/Groups/Deities.md",
     "Stories/World of Jint/Player Characters/Caiaphen.md",
     "Stories/World of Jint/Player Characters/Pilivy.md",
-    "Stories/World of Jint/Player Characters/AA - Jint Player Characters.md",
-    "Stories/World of Jint/Writing/Story of Genesis.md",
     "Stories/World of Jint/Sessions/Jint Session 0.md",
-    "C sharp notes.md",
+    "Stories/World of Jint/Sessions/Jint Session 1.md",
+    "Stories/World of Jint/Groups/Land of Crimson Hands.md",
+    "Stories/World of Jint/Characters/Eurgen.md",
+    "Stories/World of Jint/Locations/Krillothy's Chalamei.md",
+    "Stories/World of Jint/Locations/Ninasara.md",
+    "Stories/World of Jint/Characters/Cydafeld.md",
+    "Stories/World of Jint/Locations/Hudine.md",
+    "Stories/World of Jint/Handouts/Caiaphen Handout.md",
+    "Stories/World of Jint/Handouts",
+    "Stories/World of Jint/Groups/Crimson Eyes.md",
+    "6 - Main Notes/Ink/Drawing/2025.9.1 - 21.01pm.drawing",
+    "6 - Main Notes/Ink/Drawing",
+    "6 - Main Notes/Ink",
+    "6 - Main Notes",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
     "Stories/World of Jint/Writing",
-    "German Plan.md",
-    "temp.md",
-    "German Resources.md",
-    "5 -Template/dnd character.md",
-    "5 -Template/Full Note.md",
-    "5 -Template/Group Entry.md",
-    "5 -Template/Jazz Character Entry.md",
-    "5 -Template/Location Entry.md",
-    "5 -Template/Nation Entry.md",
-    "5 -Template/Video Source Note.md",
-    "Stories/World of Jint/Groups/Deities.md",
-    "Stories/World of Jint/Locations/Isles of Delenne.md",
-    "Stories/World of Jint/Locations/Estopoles.md",
     "Stories/World of Jint/Player Characters",
-    "Stories/World of Jint/Concepts and Systems/Magic (General).md",
-    "Stories/World of Jint/Locations/Rahnarth.md",
-    "Stories/World of Jint/Groups/Nations.md",
-    "Stories/World of Jint/Stories/random rahnarth ENGL203.md",
-    "Stories/World of Jint/Events/Artifact Auction.md",
-    "Stories/Jazz Don't Stop/Stories/Simon's 3k/jazz scene mk5.6.md",
-    "Stories/World of Jint/Events",
-    "Stories/World of Jint/Groups/Gorne Empire.md",
-    "Stories/World of Jint/misc",
-    "Stories/World of Jint/Sessions",
-    "jazz exe]",
-    "Stories/Jazz Don't Stop/Stories/Simon's 3k",
-    "Stories/Jazz Don't Stop/Stories/Livvy",
-    "Stories/Jazz Don't Stop/Exercises",
-    "Poems",
     "6 - Full Notes/Pasted image 20250307101937.png",
     "6 - Full Notes/Pasted image 20250307101953.png"
   ]
